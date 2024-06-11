@@ -1,0 +1,7 @@
+// DEPENDENCIES (INIT NODE.JS)
+npm init -y
+npm i express mongoose ejs @aws-sdk/lib-storage @aws-sdk/client-s3 dotenv
+npm i --save-dev nodemon
+
+// RUN SERVER
+npm run devStart
